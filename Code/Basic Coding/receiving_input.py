@@ -1,0 +1,6 @@
+print("**** INPUT NEW TICKET ****")
+staff_id = input("ENTER STAFF ID: ")
+name = input("ENTER NAME: ")
+email = input("ENTER EMAIL: ")
+description = input("ENTER DESCRIPTION OF ISSUE: ")
+print("**** New ticket submitted ****")
