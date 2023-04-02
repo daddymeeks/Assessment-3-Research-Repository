@@ -1,0 +1,26 @@
+Ticket Management System
+This is a simple ticket management system that allows staff to create and respond to tickets, reopen closed tickets, and view ticket statistics.
+
+Requirements
+Python 3.x
+ticket_maker.py
+Getting Started
+Clone the repository to your local machine.
+Open your terminal or command prompt and navigate to the project directory.
+Run the following command to start the program: python main.py
+How to Use
+Upon running the program, you will be presented with the main menu which allows you to choose from the following options:
+
+Display all tickets
+Submit a new ticket
+Provide a response to a ticket
+Reopen a ticket
+Display ticket statistics
+Exit the program
+To create a new ticket, select option 2 and follow the prompts to provide the necessary information. If the issue description contains the word "password", a new password will be generated and provided in the ticket response.
+
+To respond to a ticket, select option 3 and choose the ticket number you wish to respond to. Enter your response and the ticket will be marked as "CLOSED".
+
+To reopen a closed ticket, select option 4 and choose the ticket number you wish to reopen.
+
+To view ticket statistics, select option 5.
