@@ -8,6 +8,7 @@ Getting Started
 Clone the repository to your local machine.
 Open your terminal or command prompt and navigate to the project directory.
 Run the following command to start the program: python main.py
+
 How to Use
 Upon running the program, you will be presented with the main menu which allows you to choose from the following options:
 
