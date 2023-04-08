@@ -4,10 +4,12 @@ This repository contains my research on various topics related to programming. T
 
 Table of Contents
 
-"Assessment 2" Folder
+"Assessment 2"
+
 My completed code for a help desk ticketing system for my Assessment 2 in Software Dev.
 
-"Codes" Folder
-Comments attached at the bottom of each python file go in depth about code principles that are present or being used.
+"Codes"
+
+In "Codes" you will find comments attached at the bottom of each python file that go in depth about code principles that are present or being used.
 
 Feel free to explore these documents to learn more about these topics. If you have any feedback or suggestions, please let me know!
