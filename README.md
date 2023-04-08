@@ -6,7 +6,7 @@ Table of Contents
 
 "Assessment 2"
 
-My completed code for a help desk ticketing system for my Assessment 2 in Software Dev.
+My completed code for a help desk ticketing system for my Assessment 2 in Software Dev. Included is a comments file explaining principles I have learned and implemented into my code
 
 "Codes"
 

@@ -1,0 +1,15 @@
+Object-Oriented Programming (OOP): The code uses OOP principles by defining a Ticket class with attributes (ticket_id, staff_id, name, email, issue_description, response, and status) and methods (constructor and display). Additionally, the main function is defined within a Main class.
+
+Encapsulation: The Ticket class uses encapsulation to restrict direct access to its attributes from outside the class. This is achieved by making the attributes private (by adding "__" before their names) and using public methods (such as the constructor and display method) to access and modify them.
+
+Default Parameters: The Ticket constructor takes three mandatory parameters (ticket_id, staff_id, and name) and two optional parameters (response and status). The optional parameters are given default values ("Not yet provided" and "OPEN", respectively) in the constructor's signature.
+
+List and Append Methods: The code uses a list to store Ticket objects. The "append" method is used to add new Ticket objects to the list.
+
+Control Structures: The code uses control structures such as if-else statements and for loops to control the flow of execution based on certain conditions.
+
+Input and Output: The code uses the "input" function to take user input from the console and the "print" function to display output on the console.
+
+Static Methods: The Main class defines a static method called "main," which can be called without creating an instance of the class. This method is used to execute the main logic of the program.
+
+Exception Handling: The code does not include any explicit exception handling, but it implicitly uses the try-except block when taking user input from the console. If the user enters a non-integer value for the main_menu variable, a ValueError exception will be raised and caught by the try-except block, preventing the program from crashing.
