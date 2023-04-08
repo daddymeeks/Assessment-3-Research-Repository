@@ -1,6 +1,6 @@
 # Assessment-3-Research-Repository
 
-This repository contains my research on various topics related to computer science and programming. The purpose of this research is to deepen my understanding of these topics and improve my skills as a software developer.
+This repository contains my research on various topics related to programming. The purpose of this research is to deepen my understanding of these topics and improve my skills as a software developer.
 
 Table of Contents
 
